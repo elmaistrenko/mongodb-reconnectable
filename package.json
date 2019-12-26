@@ -1,6 +1,6 @@
 {
   "name": "mongodb-reconnectable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/elmaistrenko/mongodb-reconnectable.git",
   "author": "Yevgeniy Maistrenko <elmaistrenko@maximum-avto.ru>",
