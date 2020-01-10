@@ -1,5 +1,8 @@
 # Changelog
 All important changes are included in this file
+## 1.1.0 - 10.01.2020
+### Added
+- aggregate to wrapped defaults
 ## 1.0.3 - 27.12.2019
 ### Fixed
 - added await client
