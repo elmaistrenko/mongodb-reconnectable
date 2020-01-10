@@ -1,5 +1,8 @@
 # Changelog
 All important changes are included in this file
+## 1.2.0 - 10.01.2020
+### Added
+- distinct to wrapped defaults
 ## 1.1.0 - 10.01.2020
 ### Added
 - aggregate to wrapped defaults
