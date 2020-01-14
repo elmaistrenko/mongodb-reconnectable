@@ -1,5 +1,11 @@
 # Changelog
 All important changes are included in this file
+## 1.3.0 - 14.01.2020
+### Added
+- onChange, offChange functions
+- watch option
+### Removed
+- onChange option
 ## 1.2.0 - 10.01.2020
 ### Added
 - distinct to wrapped defaults
