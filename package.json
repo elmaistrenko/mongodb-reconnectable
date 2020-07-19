@@ -6,7 +6,7 @@
   "author": "Yevgeniy Maistrenko <elmaistrenko@maximum-avto.ru>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongodb": "^3.4.1",
     "promise-retry": "^1.1.1"
   }
